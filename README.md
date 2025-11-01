@@ -143,3 +143,10 @@ Legenda:
 
 - **HDP** – průměrný roční růst HDP v %
 - **Ceny** – průměrný roční růst cen vybraných potravin
+- **Mzdy** – průměrný roční růst mezd ve všech odvětvích
+
+---
+
+**Lucie Medvecka** 
+*lucmedvecka@seznam.cz*
+*7. října 2025*  
