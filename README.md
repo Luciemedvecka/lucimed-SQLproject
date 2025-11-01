@@ -112,3 +112,34 @@ Ne. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nej�
 ### 3. Která potravina zdražovala nejpomaleji?
 
 → **Cukr krystalový** – měl průměrný roční *pokles* ceny **−1,92 %**.
+
+---
+### 4. Existoval rok, kdy byl nárůst cen potravin výrazně vyšší než růst mezd?
+
+→ Ne. V žádném roce nepřekročil průměrný meziroční nárůst cen potravin 10 %.
+
+---
+
+### 5. Má vývoj HDP vliv na vývoj mezd a cen potravin?
+
+→ U **mezd** existuje určitá korelace s HDP, u **cen potravin** ale nikoliv.
+
+| Rok  | HDP (%) | Ceny (%) | Mzdy (%) |
+|:----:|--------:|---------:|---------:|
+| 2007 |  5,57   |  9,26    |  6,91    |
+| 2008 |  2,69   |  8,92    |  7,24    |
+| 2009 | -4,66   | -6,59    |  2,97    |
+| 2010 |  2,43   |  1,52    |  2,17    |
+| 2011 |  1,76   |  4,84    |  2,24    |
+| 2012 | -0,79   |  7,47    |  2,72    |
+| 2013 | -0,05   |  6,00    | -0,78    |
+| 2014 |  2,26   | -0,62    |  2,52    |
+| 2015 |  5,39   | -0,67    |  2,84    |
+| 2016 |  2,54   | -1,40    |  3,95    |
+| 2017 |  5,17   |  7,06    |  6,57    |
+| 2018 |  3,20   |  2,41    |  7,78    |
+
+Legenda:
+
+- **HDP** – průměrný roční růst HDP v %
+- **Ceny** – průměrný roční růst cen vybraných potravin
