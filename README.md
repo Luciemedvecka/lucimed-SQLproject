@@ -83,3 +83,32 @@ Ne. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nej�
 2013	Kulturní, zábavní a rekreační činnosti
 2013	Peněžnictví a pojišťovnictví
 2013	Profesní, vědecké a technické činnosti
+2013	Stavebnictví
+2013	Těžba a dobývání
+2013	Velkoobchod a maloobchod; opravy a údržba motorových vozidel
+2013	Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu
+2013	Zásobování vodou; činnosti související s odpady a sanacemi
+2013	Činnosti v oblasti nemovitostí
+2014	Těžba a dobývání
+2015	Výroba a rozvod elektřiny, plynu, tepla a klimatiz. vzduchu
+2016	Těžba a dobývání
+
+
+---
+
+### 2. Kolik si lze koupit litrů mléka a kilogramů chleba za průměrnou mzdu v letech 2006 a 2018?
+
+→ V roce 2018 bylo možné koupit více mléka i chleba než v roce 2006, navzdory nárůstu cen.
+
+| Rok  | Produkt                     | Počet jednotek za mzdu   |
+|:----:|----------------------------:|-------------------------:|
+| 2006 | Chléb konzumní kmínový      | 1287,5                   |
+| 2018 | Chléb konzumní kmínový      | 1342,2                   |
+| 2006 | Mléko polotučné pasterované | 1437,3                   |
+| 2018 | Mléko polotučné pasterované | 1641,6                   |
+
+---
+
+### 3. Která potravina zdražovala nejpomaleji?
+
+→ **Cukr krystalový** – měl průměrný roční *pokles* ceny **−1,92 %**.
