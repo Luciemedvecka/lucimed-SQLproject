@@ -52,3 +52,34 @@ Sekundární tabulka obsahuje socioekonomické ukazatele pro **všechny evropsk�
 Tabulka slouží zejména pro srovnání mezi státy a pro doplňující analýzy evropského kontextu.
 
 **Poznámka ke kvalitě dat:**
+
+- Ve sloupci *populace* jsou údaje kompletní.
+- Ve sloupci *GDP* chybí data pro: Faroe Islands, Gibraltar, Lichtenštejnsko.
+- Ve sloupci *gini* chybí data pro:
+  - všechny roky: San Marino, Monako, Gibraltar, Andorra,
+  - některé roky: Albánie, Bosna a Hercegovina, Chorvatsko, Německo, Island, Irsko, Černá Hora, Severní Makedonie, Srbsko, Slovensko, Velká Británie.
+
+---
+
+## Výzkumné otázky
+
+### 1. Rostou v průběhu let mzdy ve všech odvětvích?
+
+Ne. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nejčastěji v roce **2013**, a to až v 11 odvětvích.
+
+**Roky a odvětví s poklesem:**
+
+2009	Těžba a dobývání
+2009	Ubytování, stravování a pohostinství
+2009	Zemědělství, lesnictví, rybářství
+2010	Profesní, vědecké a technické činnosti
+2010	Veřejná správa a obrana; povinné sociální zabezpečení
+2010	Vzdělávání
+2011	Kulturní, zábavní a rekreační činnosti
+2011	Ubytování, stravování a pohostinství
+2011	Veřejná správa a obrana; povinné sociální zabezpečení
+2013	Administrativní a podpůrné činnosti
+2013	Informační a komunikační činnosti
+2013	Kulturní, zábavní a rekreační činnosti
+2013	Peněžnictví a pojišťovnictví
+2013	Profesní, vědecké a technické činnosti
