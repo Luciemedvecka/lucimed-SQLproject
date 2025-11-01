@@ -20,3 +20,35 @@ Tato práce se zabývá analýzou vývoje vybraných ekonomických a sociálníc
 Zvolený časový úsek vychází z průniku dostupnosti dat napříč tabulkami a pokrývá roky 2006–2018.
 
 ---
+
+## Cíle práce
+
+Cílem bylo:
+
+- sjednotit data z různých zdrojů do dvou výstupních tabulek (primární a sekundární),
+- zodpovědět předem definované **výzkumné otázky** pomocí SQL dotazů.
+
+---
+
+## Vytvořené výstupní tabulky
+
+### 1. `t_luc_medvecka_project_sql_primary_final`
+
+Tato tabulka slouží jako hlavní zdroj dat pro analýzy vztahující se k České republice. Obsahuje:
+
+- HDP (GDP) v ČR podle roku,
+- průměrné mzdy v jednotlivých odvětvích a jejich názvy,
+- průměrné roční ceny vybraných potravin a názvy těchto potravin,
+- měřené množství a měrné jednotky k cenám.
+
+### 2. `t_luc_medvecka_project_sql_secondary_final`
+
+Sekundární tabulka obsahuje socioekonomické ukazatele pro **všechny evropské země**:
+
+- HDP(GDP),
+- populaci,
+- koeficient Gini.
+
+Tabulka slouží zejména pro srovnání mezi státy a pro doplňující analýzy evropského kontextu.
+
+**Poznámka ke kvalitě dat:**
